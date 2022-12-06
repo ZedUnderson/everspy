@@ -216,8 +216,8 @@ span.psw {
 
 
 .animate {
-  -webkit-animation: animatezoom 0.6s;
-  animation: animatezoom 0.6s
+  -webkit-animation: animatezoom 0.9s;
+  animation: animatezoom 0.9s
 }
 
 @-webkit-keyframes animatezoom {
@@ -305,7 +305,7 @@ span.psw {
     </form>
 </div>
 	
-<div id="id02" class="modal1">
+<div id="id02" class="modal">
       
       <form class="modal-content animate" action="%" method="post">
       <button class="button button5">BACK</button>
@@ -325,7 +325,7 @@ span.psw {
     </form>
 </div>
 
-<div id="id03" class="modal2">
+<div id="id03" class="modal">
      
       <form class="modal-content animate" action="%" method="post">
       <button class="button button5">BACK</button>
@@ -368,20 +368,20 @@ var modal = document.getElementById('id01');
         modal.style.display = "none";
     }
 }
+var modal = document.getElementById('id01');
+	window.onclick = function(event) {
+    if (event.target == modal1) {
+        modal.style.display = "none";
+    }
+}
+var modal = document.getElementById('id01');
+	window.onclick = function(event) {
+    if (event.target == modal2) {
+        modal.style.display = "none";
+    }
+}	
 
-var modal = document.getElementById('id02');
-	window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
-	
-var modal = document.getElementById('id03');	
-	window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
+
 </script>
 
 </body>
