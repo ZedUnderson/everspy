@@ -13,17 +13,29 @@
 
 ## <div align="center"><ins>Ghost-Mode</ins></div>
 
+<p align="center">
+  <img src="https://i.imgur.com/uCf6xdx.jpg" width="600"/>
+</p>
+
 <div align="center"><ins>For showing a fake theme or an image on victims device whiles controlling</ins></div>
 
 #
 
 ## <div align="center"><ins>Freezer</ins></div>
 
+<p align="center">
+  <img src="https://i.imgur.com/jJZ1pXG.jpg" width="600"/>
+</p>
+
 <div align="center"><ins>For disabling victims screen touch ability</ins></div> 
 
 #
 
 ## <div align="center"><ins>Screen Control</ins></div>
+
+<p align="center">
+  <img src="https://i.imgur.com/0aY0pLt.jpg" width="600"/>
+</p>
 
 <div align="center"><ins>For viewing and control victims screen</ins></div>
 
