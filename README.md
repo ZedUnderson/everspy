@@ -13,8 +13,9 @@ Portugeese, Chinese, English, and Turkish available .
 
 ###
 <p align="center">
+<a href="https://everspy.sellix.io">STORE</a>
 TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
-GMAIL     <a href="mailto:EVERSPYOFFICIAL@GMAIL.COM">EVERSPYOFFICIAL@GMAIL.COM
+GMAIL     <a href="mailto:EVERSPYOFFICIAL@GMAIL.COM">EVERSPYOFFICIAL@GMAIL.COM</a>
 </p>
 #
 
