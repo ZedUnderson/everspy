@@ -13,121 +13,121 @@
 
 ## <div align="center"><ins>Ghost-Mode</ins></div>
 
-For showing a fake theme or an image on victims device whiles controlling 
+<div align="center"><ins>For showing a fake theme or an image on victims device whiles controlling</ins></div>
 
 #
 
 ## <div align="center"><ins>Freezer</ins></div>
 
-For disabling victims screen touch ability 
+<div align="center"><ins>For disabling victims screen touch ability</ins></div> 
 
 #
 
 ## <div align="center"><ins>Screen Control</ins></div>
 
-For viewing and control victims screen
+<div align="center"><ins>For viewing and control victims screen</ins></div>
 
 #
 
 ## <div align="center"><ins>Phisher</ins></div>
 
-For showing a fake login page on victims screen to capture login details
+<div align="center"><ins>For showing a fake login page on victims screen to capture login details</ins></div>
 
 #
 
 ## <div align="center"><ins>Messages</ins></div>
 
-For viewing victims received and sent messages
+<div align="center"><ins>For viewing victims received and sent messages</ins></div>
 
 #
 
 ## <div align="center"><ins>Contacts</ins></div>
 
-For viewing and adding contact unto victims phone
+<div align="center"><ins>For viewing and adding contact unto victims phone</ins></div>
 
 #
 
 ## <div align="center"><ins>Camera</ins></div>
 
-For accessing victims front and back camera
+<div align="center"><ins>For accessing victims front and back camera</ins></div>
 
 #
 
 ## <div align="center"><ins>Format</ins></div>
 
-For erasing all data from victims phone to factory mode
+<div align="center"><ins>For erasing all data from victims phone to factory mode</ins></div>
 
 #
 
 ## <div align="center"><ins>Edit Socket</ins></div>
 
-For adding or removing tcp port and IP address from server and client connections
+<div align="center"><ins>For adding or removing tcp port and IP address from server and client connections</ins></div>
 
 #
 
 ## <div align="center"><ins>Download Apk</ins></div>
 
-For downloading files of any kind aside apk unto victims device
+<div align="center"><ins>For downloading files of any kind aside apk unto victims device</ins></div>
 
 #
 
 ## <div align="center"><ins>Open A Link</ins></div>
 
-For navigating a giving link to victims default browser
+<div align="center"><ins>For navigating a giving link to victims default browser</ins></div>
 
 #
 
 ## <div align="center"><ins>Toaster</ins></div>
 
-For displaying a message on victims screen
+<div align="center"><ins>For displaying a message on victims screen</ins></div></ins></div>
 
 #
 
 ## <div align="center"><ins>Notifications</ins></div>
 
-For viewing victims phone notifications
+<div align="center"><ins>For viewing victims phone notifications</ins></div>
 
 #
 
 ## <div align="center"><ins>File Manager</ins></div>
 
-For viewing files on victims device and having full control of modifying them
+<div align="center"><ins>For viewing files on victims device and having full control of modifying them</ins></div>
 
 #
 
 ## <div align="center"><ins>Applications</ins></div>
 
-For viewing and opening apps on victims device
+<div align="center"><ins>For viewing and opening apps on victims device</ins></div>
 
 #
 
 ## <div align="center"><ins>Keylogger</ins></div>
 
-For spying victims keystrokes, both when offline and online
+<div align="center"><ins>For spying victims keystrokes, both when offline and online</ins></div>
 
 #
 
 ## <div align="center"><ins>Accounts</ins></div>
 
-For viewing victims signed in accounts 
+<div align="center"><ins>For viewing victims signed in accounts</ins></div>
 
 #
 
 ## <div align="center"><ins>Call Logs</ins></div>
 
-For viewing all calls sent and received on victims device 
+<div align="center"><ins>For viewing all calls sent and received on victims device</ins></div>
 
 #
 
 ## <div align="center"><ins>Info</ins></div>
 
-For viewing victims device specs and cellular details
+<div align="center"><ins><div align="center"><ins>For viewing victims device specs and cellular details</ins></div>
 
 #
 
 ## <div align="center"><ins>Location</ins></div>
 
-For accurate tracking of victims geolocation
+<div align="center"><ins>For accurate tracking of victims geolocation</ins></div>
 
 
 ## *- all permissions are allowed automatically*
@@ -136,7 +136,7 @@ For accurate tracking of victims geolocation
 
 ## *- after purchase, you receive free tutorials and support at zero charge*
 
-## *- all later updates are free *
+## *- all later updates are free*
 
 
 
