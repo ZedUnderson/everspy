@@ -13,8 +13,8 @@ Portugeese, Chinese, English, and Turkish available .
 
 ###
 <p align="center">
-CONTACT TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
-CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
+  TELEGRAM  <a href="https://t.me/everspy">@EVERSPY</a>
+GMAIL     EVERSPYOFFICIAL@GMAIL.COM
 </p>
 #
 
@@ -236,8 +236,8 @@ CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
 
 ###
 <p align="center">
-CONTACT TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
-CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
+TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
+GMAIL     EVERSPYOFFICIAL@GMAIL.COM
 </p>
 
 
