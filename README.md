@@ -11,9 +11,10 @@ The payload will be installed like a normal application from playstore without h
 
 Portugeese, Chinese, English, and Turkish available .
 
+###
 <p align="center">
-### CONTACT TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
-### CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
+CONTACT TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
+CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
 </p>
 #
 
@@ -233,9 +234,10 @@ Portugeese, Chinese, English, and Turkish available .
   <img src="https://i.imgur.com/o9ZCM7o.jpg" width="600"/>
 </p>
 
+###
 <p align="center">
-### CONTACT TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
-### CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
+CONTACT TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
+CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
 </p>
 
 
