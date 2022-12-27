@@ -11,8 +11,9 @@
 <p align="center">
 EverSpy V3  android remote control software. With its advanced features you can control or monitor an android device without having physical access to it
 The payload will be installed like a normal application from playstore without having to root the device.
-
-Portugeese, Chinese, English, and Turkish available .
+</p>
+<p align="center">
+Portugeese, Chinese, English, and Turkish available
 </p>
 
 ##
@@ -21,7 +22,6 @@ Portugeese, Chinese, English, and Turkish available .
 TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
 GMAIL     <a href="mailto:EVERSPYOFFICIAL@GMAIL.COM">EVERSPYOFFICIAL@GMAIL.COM</a>
 </p>
-#
 
 # <div align="center"><ins>FEATURES</ins></div>
 
