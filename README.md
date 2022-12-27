@@ -5,6 +5,14 @@
   <img alt="shows the RvGPLdT.jpg on dark colour mode and the AhMyth-Banner-dark.png on light colour mode" src="https://i.imgur.com/RvGPLdT.jpg">
 </picture>
 
+<br>
+EverSpy V3  android remote control software. With its advanced features you can control or monitor an android device without having physical access to it
+The payload will be installed like a normal application from playstore without having to root the device.
+
+Portugeese, Chinese, English, and Turkish available .
+
+### CONTACT TELEGRAM  @EVERSPY
+### CONTACT GMAIL     EVERSPYOFFICIAL@GMAIL.COM
 #
 
 # <div align="center"><ins>FEATURES</ins></div>
@@ -217,6 +225,11 @@
 ## *- after purchase, you receive free tutorials and support at zero charge*
 
 ## *- all later updates are free*
+  
+  
+<p align="center">
+  <img src="https://i.imgur.com/o9ZCM7o.jpg" width="600"/>
+</p>
 
 
 
