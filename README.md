@@ -237,12 +237,5 @@ GMAIL     EVERSPYOFFICIAL@GMAIL.COM
 ###
 <p align="center">
 TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
-GMAIL     EVERSPYOFFICIAL@GMAIL.COM
+GMAIL     <a href="mailto:EVERSPYOFFICIAL@GMAIL.COM">EVERSPYOFFICIAL@GMAIL.COM
 </p>
-
-
-
-
-
-
-
