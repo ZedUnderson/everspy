@@ -1,6 +1,6 @@
 # <div align="center"><ins>EVER SPY OFFICIAL</ins></div>
 
-<picture>
+<picture  align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/RvGPLdT.jpg">
   <img alt="shows the RvGPLdT.jpg on dark colour mode and the AhMyth-Banner-dark.png on light colour mode" src="https://i.imgur.com/RvGPLdT.jpg">
 </picture>
@@ -13,8 +13,8 @@ Portugeese, Chinese, English, and Turkish available .
 
 ###
 <p align="center">
-  TELEGRAM  <a href="https://t.me/everspy">@EVERSPY</a>
-GMAIL     EVERSPYOFFICIAL@GMAIL.COM
+TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
+GMAIL     <a href="mailto:EVERSPYOFFICIAL@GMAIL.COM">EVERSPYOFFICIAL@GMAIL.COM
 </p>
 #
 
