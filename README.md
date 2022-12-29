@@ -242,6 +242,6 @@ GMAIL     <a href="mailto:EVERSPYOFFICIAL@GMAIL.COM">EVERSPYOFFICIAL@GMAIL.COM</
 ###
 <p align="center">
 <a href="https://everspy.sellix.io">STORE</a>
-TELEGRAM  <a href="https://github.com/CanciuCostin/android-spyware/issues">@EVERSPY</a>
+TELEGRAM  <a href="https://t.me/everspy">@EVERSPY</a>
 GMAIL     <a href="mailto:EVERSPYOFFICIAL@GMAIL.COM">EVERSPYOFFICIAL@GMAIL.COM</a>
 </p>
